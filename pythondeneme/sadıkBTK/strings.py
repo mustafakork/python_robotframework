@@ -16,4 +16,5 @@ print(tanıtmaCümlesi[length-3])
 print(tanıtmaCümlesi[0:6])  #My nam
 print(tanıtmaCümlesi[:6])   #My nam
 print(tanıtmaCümlesi[0:6:2]) # M a
+print(tanıtmaCümlesi[3])
 
